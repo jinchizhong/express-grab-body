@@ -1,0 +1,11 @@
+{
+  "name": "express-grab-body",
+  "version": "0.1.0",
+  "description": "Grab raw body from express, and works with body parser...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jinchizhong@kingsoft.com",
+  "license": "BSD"
+}
